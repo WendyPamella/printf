@@ -22,4 +22,8 @@ These are the tasks we completed as part of the project. Links to all the tasks 
 
 [Task 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life](https://github.com/WendyPamella/printf/blob/master/_printf.c)
 
-The above task handles the following conversion specifiers, namely: c, d and %
+The above task handles the following conversion specifiers, namely: c, s and %
+
+[Task 1. Education is when you read the fine print. Experience is what you get if you don't](https://github.com/WendyPamella/printf/blob/master/print_nums.c)
+
+The above task handles the following conversion specifiers, namely: d and i
